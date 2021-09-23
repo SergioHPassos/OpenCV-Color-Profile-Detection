@@ -1,2 +1,2 @@
-# OpenCV-Color-Profile-Detection
-simple object detection using color profiles to detect branded soda
+# Goal
+The goal of this project was to have a better understanding of the OpenCV Library.
